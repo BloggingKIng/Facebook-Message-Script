@@ -9,4 +9,7 @@ The script automates the process of sending messages to people.
 2. Use python to run the script `python main.py`
 3. Input your fb username, fb password, the account link of the person that you want to send message to 
 as well as the message that you want to send when asked by the bot.
-4. And boom, watch the bot sending message to the person using chrome 
+![image](https://github.com/user-attachments/assets/a93f120b-9b47-4578-b82a-50eeb92ec064)
+
+5. And boom, watch the bot sending message to the person using chrome 
+![Uploading image.png…]()
