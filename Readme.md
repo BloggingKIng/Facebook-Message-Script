@@ -12,4 +12,5 @@ as well as the message that you want to send when asked by the bot.
 ![image](https://github.com/user-attachments/assets/a93f120b-9b47-4578-b82a-50eeb92ec064)
 
 5. And boom, watch the bot sending message to the person using chrome 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/dc60b9fc-6c4d-4729-967d-2d3d64e9e840)
+
